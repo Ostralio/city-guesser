@@ -2,6 +2,8 @@ var parsed = []
 var numCities = 0;
 var numCorrect = 0;
 
+//test
+
 document.getElementById("uploadBtn").addEventListener("click", () => {
     event.preventDefault();
     let uploadedFile = document.getElementById("file").files[0]
