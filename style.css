@@ -1,0 +1,14 @@
+#map{
+    height: 600px;
+    width: 100%;
+}
+
+.display {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.scoreDisplay{
+    justify-self: end;
+    margin-right: 5%;
+}
